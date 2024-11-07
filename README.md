@@ -31,3 +31,7 @@ O projeto é composto pelos seguintes arquivos principais:
 
 ```bash
 git clone https://github.com/tscouto/appLojinha.git
+
+
+![Imagem do APP](https://github.com/user-attachments/assets/70e032a0-849c-4368-b52a-38173100ddcf)
+
