@@ -30,4 +30,4 @@ O projeto é composto pelos seguintes arquivos principais:
 1. Clone este repositório para o seu computador:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/projeto-app-produtos.git
+git clone https://github.com/tscouto/appLojinha.git
