@@ -1,5 +1,4 @@
 # App de Produtos
-![Foto do app](https://github.com/user-attachments/assets/9189fcd0-41ad-4039-8a69-ada5797554ce)
 
 Este é um aplicativo simples de exibição de produtos, desenvolvido com **React Native**, com foco na apresentação de uma lista de itens, exibindo suas imagens, preços e permitindo ao usuário adicionar produtos ao carrinho. O app é uma ótima demonstração de como utilizar componentes personalizados, como a lista de produtos e a interação com os elementos, além de mostrar como integrar dados dinâmicos em uma interface mobile.
 
@@ -32,6 +31,9 @@ O projeto é composto pelos seguintes arquivos principais:
 
 ```bash
 git clone https://github.com/tscouto/appLojinha.git
+```
+<img src="https://github.com/user-attachments/assets/9189fcd0-41ad-4039-8a69-ada5797554ce" width="300" />
+
 
 
 
